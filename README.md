@@ -2,7 +2,7 @@
 
 Date: February 10th, 2026.
 
-*Runtime: 21 min. CPU: 64 cores (≈62.5% peak usage, sustained $\approx$ 40 cores). RAM: 256 GiB (≈1.95% usage, ≈5 GiB). Network: peak egress ≈391 KB/s. GPU: n/a.*
+*Runtime: 21 min. CPU: 64 cores (≈62.5% peak usage, sustained ≈40 cores). RAM: 256 GiB (≈1.95% usage, ≈5 GiB). Network: peak egress ≈391 KB/s. GPU: n/a.*
 
 ---
 
